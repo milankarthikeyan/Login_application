@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957562937534",
+    "firebase_url": "https://arched-jetty-288607.firebaseio.com",
+    "project_id": "arched-jetty-288607",
+    "storage_bucket": "arched-jetty-288607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957562937534:android:132439016a00c6aae4feef",
+        "android_client_info": {
+          "package_name": "com.example.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957562937534-1gvg0lcu3heec9rgovheg76mv0t189a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr21pq5UARgkxK99QU2swsAETmREOUJ8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957562937534-1gvg0lcu3heec9rgovheg76mv0t189a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
