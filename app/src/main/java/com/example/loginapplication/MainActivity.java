@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
     public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
 
     }
+    
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
